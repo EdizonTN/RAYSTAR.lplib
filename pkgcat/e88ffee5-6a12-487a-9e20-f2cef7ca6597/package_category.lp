@@ -1,0 +1,10 @@
+(librepcb_package_category e88ffee5-6a12-487a-9e20-f2cef7ca6597
+ (name "Raystar")
+ (description "LC Module")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-22T22:10:54Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)

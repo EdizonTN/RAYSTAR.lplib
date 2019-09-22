@@ -1,0 +1,10 @@
+(librepcb_library 520f4663-243c-4232-b1ee-ee827942230d
+ (name "Raystar")
+ (description "This is a unnoficial testing LibrePCB library. Raystar Optronics, inc.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-22T21:04:23Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/RAYSTAR.lplib")
+)

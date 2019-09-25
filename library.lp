@@ -6,5 +6,5 @@
  (version "0.1")
  (created 2019-09-22T21:04:23Z)
  (deprecated false)
- (url "https://github.com/LibrePCB-Libraries/RAYSTAR.lplib")
+ (url "https://github.com/EdizonTN/RAYSTAR.lplib")
 )

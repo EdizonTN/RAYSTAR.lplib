@@ -13,7 +13,7 @@ see [wiki](../../wiki/)
 
 
 ## LibrePCB "URL to ZIP file"
-https://github.com/EdizonTN/RAYSTAR.lplib/archive/master.zip
+https://github.com/EdizonTN/RAYSTAR.lplib/archive/refs/heads/master.zip
 
 
 ## License
